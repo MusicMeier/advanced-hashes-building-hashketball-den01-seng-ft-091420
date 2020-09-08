@@ -5,6 +5,7 @@ def game_hash
       color: []
       players: [
         {
+          player_name:
           
         }
         ]
