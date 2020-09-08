@@ -1,4 +1,4 @@
-game_hash =
+def game_hash
 {
   home: 
   {
@@ -122,5 +122,6 @@ game_hash =
       
     }
   }
+end
 
   
