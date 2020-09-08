@@ -1,10 +1,10 @@
 def game_hash
   {
-    away: 
+    'home' =>
     {
       
     }
-    home: 
+    'away' =>
     {
     }
   }
